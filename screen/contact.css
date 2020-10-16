@@ -1,0 +1,41 @@
+#contact__body {
+  height: 600px;
+}
+
+.mainbox__contact {
+  background-color: #c38b68;
+}
+.contact__main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+.contact__main__intro {
+  margin-right: 300px;
+  font-size: 30px;
+  font-weight: 500;
+  color: black;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.contact__main__icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact__main__icon:first-child,
+.contact__main__icon:nth-child(2) {
+  margin-bottom: 50px;
+}
+.contact__main__icon a {
+  font-size: 50px;
+  font-weight: 500;
+  color: black;
+  transition: 0.3s ease-in-out;
+}
+.contact__main__icon a:hover {
+  font-size: 55px;
+}

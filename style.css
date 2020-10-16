@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Prata&family=Roboto+Mono&display=swap");
+
+/* component */
+@import "component/reset.css";
+@import "component/nav-bar.css";
+
+/* screen */
+@import "screen/home.css";
+@import "screen/about.css";
+@import "screen/work.css";
+@import "screen/contact.css";
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Prata", serif;
+  width: 100%;
+}
