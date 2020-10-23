@@ -4,16 +4,16 @@
 .nav__list__about,
 .nav__list__work,
 .nav__list__contact {
-  width: 50px;
+  width: 34px;
   height: 1px;
   background-color: rgba(0, 0, 0, 0.5);
   margin-top: 3px;
 }
 .nav__list__work {
-  width: 45px;
+  width: 33px;
 }
 .nav__list__contact {
-  width: 70px;
+  width: 43px;
 }
 .nav {
   width: inherit;
